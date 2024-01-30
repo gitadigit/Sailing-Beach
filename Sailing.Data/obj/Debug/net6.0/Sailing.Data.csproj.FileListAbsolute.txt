@@ -1,0 +1,17 @@
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\Sailing.Data.csproj.AssemblyReference.cache
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\Sailing.Data.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\Sailing.Data.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\Sailing.Data.AssemblyInfo.cs
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\Sailing.Data.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\bin\Debug\net6.0\Sailing.Data.deps.json
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\bin\Debug\net6.0\Sailing.Data.runtimeconfig.json
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\bin\Debug\net6.0\Sailing.Data.dll
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\bin\Debug\net6.0\Sailing.Data.pdb
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\bin\Debug\net6.0\Sailing.Core.dll
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\bin\Debug\net6.0\Sailing.Core.pdb
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\Sailing.Data.csproj.CopyComplete
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\Sailing.Data.dll
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\refint\Sailing.Data.dll
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\Sailing.Data.pdb
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\Sailing.Data.genruntimeconfig.cache
+Y:\Groups\Group_5\מלכה  עדי\Dotnet\SAILING_BEACH\Sailing.Data\obj\Debug\net6.0\ref\Sailing.Data.dll

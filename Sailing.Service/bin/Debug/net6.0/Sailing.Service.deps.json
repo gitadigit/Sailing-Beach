@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sailing.Service/1.0.0": {
+        "dependencies": {
+          "Sailing.Core": "1.0.0"
+        },
+        "runtime": {
+          "Sailing.Service.dll": {}
+        }
+      },
+      "Sailing.Core/1.0.0": {
+        "runtime": {
+          "Sailing.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sailing.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Sailing.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
