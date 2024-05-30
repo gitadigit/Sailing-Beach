@@ -1,0 +1,45 @@
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Service.deps.json
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Service.dll
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Service.pdb
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Core.dll
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Core.pdb
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.csproj.AssemblyReference.cache
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.GeneratedMSBuildEditorConfig.editorconfig
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.AssemblyInfoInputs.cache
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.AssemblyInfo.cs
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.csproj.CoreCompileInputs.cache
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.csproj.CopyComplete
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.dll
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\refint\Sailing.Service.dll
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.pdb
+Y:\Groups\Group_5\ויזל  חנה\.net\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\ref\Sailing.Service.dll
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Service.deps.json
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Service.dll
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Service.pdb
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Core.dll
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Core.pdb
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.csproj.AssemblyReference.cache
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.AssemblyInfo.cs
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.csproj.CopyComplete
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.dll
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\refint\Sailing.Service.dll
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.pdb
+C:\Users\User\Downloads\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\ref\Sailing.Service.dll
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Service.deps.json
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Service.dll
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Service.pdb
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Core.dll
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\bin\Debug\net6.0\Sailing.Core.pdb
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.csproj.AssemblyReference.cache
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.AssemblyInfoInputs.cache
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.AssemblyInfo.cs
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.csproj.CopyComplete
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.dll
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\refint\Sailing.Service.dll
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\Sailing.Service.pdb
+C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Service\obj\Debug\net6.0\ref\Sailing.Service.dll
