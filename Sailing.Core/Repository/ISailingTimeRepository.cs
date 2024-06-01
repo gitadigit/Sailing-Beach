@@ -13,10 +13,11 @@ namespace Sailing.Core.Repository
 
         Task<SailingTime> GetSailingTimeById(int id);
 
-        Task<SailingTime> AddSailingTime(SailingTime sailingTime);
+        Task<SailingTime> AddSailingTime(SailingTime sailingtime);
 
         Task<SailingTime> UpdateSailingTime(int id, SailingTime sailingTime);
 
+      
         void DeleteSailingTime(int id);
     }
 }

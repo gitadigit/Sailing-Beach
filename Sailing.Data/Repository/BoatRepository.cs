@@ -43,7 +43,7 @@ namespace Sailing.Data.Repository
             boat.NumberOfPassenger = boatDriver.NumberOfPassenger;
             boat.AfterSunset = boatDriver.AfterSunset;
             boat.CompanyName = boatDriver.CompanyName;
-           await _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
             return boat;
         }
 

@@ -36,7 +36,8 @@ namespace Sailing.Api.Controllers
         public async Task<ActionResult> Get(int id)
         {
             var getIdTask = await _boatService.GetBoatByIdAsync(id);
-            return Ok(getIdTask);
+            var boatDto= _mapper.Map<BoatDto>(getIdTask);
+            return Ok(boatDto);
         }
 
         // POST api/<BoatController>

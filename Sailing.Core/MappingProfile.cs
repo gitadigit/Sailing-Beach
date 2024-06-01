@@ -15,7 +15,7 @@ namespace Sailing.Core
         {
             CreateMap<SailingTime, SailingTimeDto>().ReverseMap();
 
-            CreateMap<Boat, BoatDriverDto>().ReverseMap();
+            CreateMap<BoatDriver, BoatDriverDto>().ReverseMap();
 
             CreateMap<Boat, BoatDto>().ReverseMap();
 

@@ -1,4 +1,5 @@
-﻿using Sailing.Core.Repository;
+﻿using Microsoft.EntityFrameworkCore;
+using Sailing.Core.Repository;
 using SAILING_BEACH;
 using System;
 using System.Collections.Generic;
@@ -40,8 +41,8 @@ namespace Sailing.Data.Repository
         public async Task<BoatDriver> UpdateBoatDriver(int id, BoatDriver boatDriver)
         {
             var boatDrive = _context.BoatDrivers.Find(id);
-            boatDrive.FirstName = boatDrive.FirstName;
-            boatDrive.LastName = boatDrive.LastName;
+            boatDrive.FirstName = boatDriver.FirstName;
+            boatDrive.LastName = boatDriver.LastName;
             boatDrive.Age = boatDriver.Age;
             boatDrive.Salary = boatDriver.Salary;
             boatDrive.Seniority = boatDriver.Seniority;

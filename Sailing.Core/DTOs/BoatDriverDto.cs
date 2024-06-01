@@ -15,5 +15,6 @@ namespace Sailing.Core.DTOs
         public int Experience { get; set; }
 
         public int Seniority { get; set; }
+
     }
 }

@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\SAILING_BEACH\\Sailing.Api.csproj": {}
+    "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\SAILING_BEACH\\Sailing.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj": {
+    "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj",
         "projectName": "Sailing.Core",
-        "projectPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\obj\\",
+        "projectPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -65,25 +61,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Data\\Sailing.Data.csproj": {
+    "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Data\\Sailing.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Data\\Sailing.Data.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Data\\Sailing.Data.csproj",
         "projectName": "Sailing.Data",
-        "projectPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Data\\Sailing.Data.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Data\\obj\\",
+        "projectPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Data\\Sailing.Data.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -97,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj": {
-                "projectPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj"
+              "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj": {
+                "projectPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj"
               }
             }
           }
@@ -140,25 +132,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Service\\Sailing.Service.csproj": {
+    "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Service\\Sailing.Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Service\\Sailing.Service.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Service\\Sailing.Service.csproj",
         "projectName": "Sailing.Service",
-        "projectPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Service\\Sailing.Service.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Service\\obj\\",
+        "projectPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Service\\Sailing.Service.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Service\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -172,8 +160,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj": {
-                "projectPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj"
+              "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj": {
+                "projectPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj"
               }
             }
           }
@@ -203,25 +191,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\SAILING_BEACH\\Sailing.Api.csproj": {
+    "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\SAILING_BEACH\\Sailing.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\SAILING_BEACH\\Sailing.Api.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\SAILING_BEACH\\Sailing.Api.csproj",
         "projectName": "Sailing.Api",
-        "projectPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\SAILING_BEACH\\Sailing.Api.csproj",
-        "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\SAILING_BEACH\\obj\\",
+        "projectPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\SAILING_BEACH\\Sailing.Api.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\SAILING_BEACH\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -229,20 +213,21 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.304\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj": {
-                "projectPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj"
+              "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj": {
+                "projectPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj"
               },
-              "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Data\\Sailing.Data.csproj": {
-                "projectPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Data\\Sailing.Data.csproj"
+              "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Data\\Sailing.Data.csproj": {
+                "projectPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Data\\Sailing.Data.csproj"
               },
-              "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Service\\Sailing.Service.csproj": {
-                "projectPath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Service\\Sailing.Service.csproj"
+              "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Service\\Sailing.Service.csproj": {
+                "projectPath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Service\\Sailing.Service.csproj"
               }
             }
           }
@@ -287,7 +272,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

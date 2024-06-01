@@ -4,6 +4,7 @@ using Sailing.Api.Models;
 using Sailing.Core;
 using Sailing.Core.DTOs;
 using Sailing.Core.Service;
+using Sailing.Service;
 using SAILING_BEACH;
 
 // For more information on enabling Web API for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
@@ -28,16 +29,11 @@ namespace Sailing.Api.Controllers
         [HttpGet]
         public async Task<ActionResult> Get()
         {
-            var getTask = _timeService.GetSailingTimeAsync();
-            var timeDto=_mapper.Map<List<SailingTimeDto>>(getTask);
-            //await Task.WhenAll(getTask);
-            //var timeDto=new List<SailingTimeDto>();
-            //foreach(var t in time)
-            //{
-            //    timeDto.Add(_mapper.Map<SailingTimeDto>(t));
-            //   // timeDto.Add(_mapping.MapToSailingTimeDto(t));
-            //}
-            return Ok(timeDto);//getTask
+            var SailingTime = _timeService.GetSailingTimeAsync();
+
+            var SailingTimeDto=_mapper.Map<List<SailingTimeDto>>(SailingTime);
+         
+            return Ok(SailingTimeDto);
         }
 
         // GET api/<TimeSailingcontroller>/5
@@ -45,29 +41,36 @@ namespace Sailing.Api.Controllers
         public async Task<ActionResult> Get(int id)
         {
             var getIdTask = await _timeService.GetSailingTimeByIdAsync(id);
-            // var timeDto=_mapping.MapToSailingTimeDto(time);
-            var timeDto = _mapper.Map<SailingTimeDto>(getIdTask);
-            //var timeDto=new SailingTimeDto { EndTime = time.EndTime , StartTime=time.StartTime };
-            return Ok(timeDto);
+         
+            var getIdDto = _mapper.Map<SailingTimeDto>(getIdTask);
+           
+            return Ok(getIdDto);
         }
 
         // POST api/<TimeSailingcontroller>
         [HttpPost]
-        public async Task<SailingTime> Post([FromBody] SailingTimePostModel sailingTime)
+        public async Task<ActionResult> Post([FromBody] SailingTime sailingTime)
         {
-            var timeToAdd=  new SailingTime {StartTime=sailingTime.StartTime, EndTime=sailingTime.EndTime};  
-            return await _timeService.AddSailingTimeAsync(timeToAdd);
+            var addSailingTime = await _timeService.AddSailingTimeAsync(sailingTime);
+
+            var addSailingTimeDto = _mapper.Map<SailingTimeDto>(addSailingTime);
+
+            return Ok(addSailingTimeDto);
         }
 
         // PUT api/<TimeSailingcontroller>/5
         [HttpPut("{id}")]
-        public async Task<SailingTime >Put(int id, [FromBody] SailingTimePostModel sailingTime)
+        public async Task<ActionResult >Put(int id, [FromBody] SailingTime sailingTime)
         {
-            var timeToAdd= new SailingTime {StartTime=sailingTime.StartTime, EndTime=sailingTime.EndTime};
-            return await _timeService.UpdateSailingTimeAsync(id, timeToAdd);
+            var UPdatesailingTime = await _timeService.UpdateSailingTimeAsync(id, sailingTime);
 
+            var UPdateSailingTimerDto = _mapper.Map<SailingTimeDto>(UPdatesailingTime);
+
+            return Ok(UPdateSailingTimerDto);
+
+
+           
         }
-
         // DELETE api/<TimeSailingcontroller>/5
         [HttpDelete("{id}")]
         public void Delete(int id)

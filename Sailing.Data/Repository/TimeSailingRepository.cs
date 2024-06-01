@@ -32,16 +32,21 @@ namespace Sailing.Data.Repository
 
         public async Task<SailingTime> AddSailingTime(SailingTime sailingTime)
         {
-           _context.SailingTime.Add(sailingTime);
-           await _context.SaveChangesAsync();
+            _context.SailingTime.Add(sailingTime);
+            await _context.SaveChangesAsync();
+
             return sailingTime;
+            
         }
 
-        public async Task<SailingTime> UpdateSailingTime(int id, SailingTime sailingTime)
+        public async Task<SailingTime> UpdateSailingTime(int id, SailingTime sailingTime1)
         {
             var sailingtime=_context.SailingTime.Find(id);
-            sailingtime.StartTime = sailingTime.StartTime;
-            sailingtime.EndTime = sailingTime.EndTime;
+            sailingtime.StartTime = sailingTime1.StartTime;
+            sailingtime.EndTime = sailingTime1.EndTime;
+            sailingtime.Boat=sailingTime1.Boat;
+            sailingtime.BoatDriver=sailingTime1.BoatDriver;
+
             await _context.SaveChangesAsync();
             return sailingtime;
         }

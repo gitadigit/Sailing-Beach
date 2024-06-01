@@ -34,3 +34,15 @@ C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Core\bin
 C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Core\bin\Debug\net6.0\Sailing.Core.dll
 C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Core\bin\Debug\net6.0\Sailing.Core.pdb
 C:\Users\USER\Downloads\פרויקט בדוטנט\SAILING_BEACH\Sailing.Core\obj\Debug\net6.0\ref\Sailing.Core.dll
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\bin\Debug\net6.0\Sailing.Core.deps.json
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\bin\Debug\net6.0\Sailing.Core.dll
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\bin\Debug\net6.0\Sailing.Core.pdb
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\obj\Debug\net6.0\Sailing.Core.csproj.AssemblyReference.cache
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\obj\Debug\net6.0\Sailing.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\obj\Debug\net6.0\Sailing.Core.AssemblyInfoInputs.cache
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\obj\Debug\net6.0\Sailing.Core.AssemblyInfo.cs
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\obj\Debug\net6.0\Sailing.Core.csproj.CoreCompileInputs.cache
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\obj\Debug\net6.0\Sailing.Core.dll
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\obj\Debug\net6.0\refint\Sailing.Core.dll
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\obj\Debug\net6.0\Sailing.Core.pdb
+C:\Users\user1\Music\פרויקט net\Sailing-Beach\Sailing.Core\obj\Debug\net6.0\ref\Sailing.Core.dll

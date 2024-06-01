@@ -58,6 +58,13 @@ namespace Sailing.Api.Controllers
             return Ok(addBoatDriverDto);
         }
 
+
+
+
+
+
+
+
         // DELETE api/<DriverController>/5
         [HttpDelete("{id}")]
         public void Delete(int id)

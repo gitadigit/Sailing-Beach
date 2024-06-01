@@ -1,15 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "YxQ10+PWnsaCWL9GrciwQkbcsyFgf/GOKTrOcwbvOnf8mNSy+mN+lnftxm1GcRuEpNKRZQbHwwG6zAzJfxGgvA==",
+  "dgSpecHash": "o6o46Hv6qZq67QNyBnPvazUFf+WmqwN4BjD2fnY0QT4D2sGP8LJPpKifkOyK8iVCno9MM2/PzyIxdDnr+1UCuQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\Downloads\\פרויקט בדוטנט\\SAILING_BEACH\\Sailing.Core\\Sailing.Core.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Music\\פרויקט net\\Sailing-Beach\\Sailing.Core\\Sailing.Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\USER\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
-    "C:\\Users\\USER\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\user1\\.nuget\\packages\\automapper\\13.0.0\\automapper.13.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

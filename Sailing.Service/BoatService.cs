@@ -33,9 +33,9 @@ namespace Sailing.Service
             return await _boatRepository.AddBoat(boat);
         }
 
-        public async Task<Boat> UpdateBoatAsync(int id, Boat boatDriver)
+        public async Task<Boat> UpdateBoatAsync(int id, Boat boat)
         {
-            return await _boatRepository.UpdateBoat(id, boatDriver);
+            return await _boatRepository.UpdateBoat(id, boat);
         }
 
         public void DeleteBoatAsync(int id)
